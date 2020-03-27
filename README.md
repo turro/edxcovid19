@@ -3,23 +3,20 @@
 
   
 
-## node web app created to share edx promotional codes at the Universitat Politènica de Valencia
+## A web app to share edx promotional codes at the Universitat Politènica de Valencia
 
   
 
 > Disclaimer: you can see the web working at
-> https://edxcovid19.webs.upv.es/ but you need an upv related email to
+> https://edxcovid19.webs.upv.es/ but there you will need an upv related email to
 > request licences
 > 
-> 
-> 
-> Disclaimer2: since it has been done in 2-3 days lapse while i relearnt
-> node after long hiatus without using it. You prolly can find better
-> ways to do some stuff (feel free to teach me the ways).
+>
+> Disclaimer2: This website is shared to help any other members of edX trying to do the same work. Feel free to use, modify and fork. However don't expect fast support ;-)
 
   
 
-# I don't care i want to use it for my organization!
+# Anyway I want to use it for my organization!
 
   
 
