@@ -3,7 +3,7 @@
 
   
 
-## node web app created to share edx licences at the Universitat Politènica de Valencia
+## node web app created to share edx promotional codes at the Universitat Politènica de Valencia
 
   
 
